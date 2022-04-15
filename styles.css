@@ -62,6 +62,23 @@ section {
     display: none;
     transform: translateY(0) scale(1);
 }
+.sec2 {
+    display: none;
+    transform: translateY(0) scale(1);
+    background-color: slateblue;
+}
+.sec3 {
+    display: none;
+    transform: translateY(0) scale(1);
+}
+.sec4 {
+    display: none;
+    transform: translateY(0) scale(1);
+}
+.sec5 {
+    display: none;
+    transform: translateY(0) scale(1);
+}
 
 .controlls{
     position: fixed;
@@ -76,7 +93,8 @@ section {
 .controlls .active-btn {
 
     background-color: var(--color-secondary) !important;
-    transition: all .4s ease-in-out;    
+    transition: all .4s ease-in-out;
+    
 }
 .controlls .active-btn .i {
     color: var(--color-white) !important;
