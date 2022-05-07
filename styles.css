@@ -61,6 +61,7 @@ section {
 .sec1 {
     display: none;
     transform: translateY(0) scale(1);
+    background-color: yellow;
 }
 .sec2 {
     display: none;
@@ -70,14 +71,17 @@ section {
 .sec3 {
     display: none;
     transform: translateY(0) scale(1);
+    background-color: yellow;
 }
 .sec4 {
     display: none;
     transform: translateY(0) scale(1);
+    background-color: slateblue;
 }
 .sec5 {
     display: none;
     transform: translateY(0) scale(1);
+    background-color: yellow;
 }
 
 .controlls{
